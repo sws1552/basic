@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body style="background-color : black; color : white;">
 	<input type="button" value="hi" onclick="alert('hi')">
 	<input type="text" onchange="alert('changed')">
 	<input type="text" onkeydown="alert('key down')"><br/>
